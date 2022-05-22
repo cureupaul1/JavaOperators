@@ -6,9 +6,11 @@ public class ArtihmeticOperators {
         acesta este un comentariu multilinie
          */
     //Acesta este un comentariu pe o singura linie
+    //Aceasta este metoda main care porneste o aplicatie java
     public static void main(String[] args) {
         //Operatorul de adunare +
         int sum = 5 + 4;
+        //Aici vrem sa afism pe consola IntelJ un mesaj ales de noi
         System.out.println("Suma este: " + sum);
 
         //Operatorul de scadere -
