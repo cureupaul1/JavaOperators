@@ -1,13 +1,13 @@
 import java.sql.SQLOutput;
 
 public class ArtihmeticOperators {
-    /*
-        Tot ce scriem intre aceste vcaractere nu este compilat
-        acesta este un comentariu multilinie
-         */
-    //Acesta este un comentariu pe o singura linie
-    //Aceasta este metoda main care porneste o aplicatie java
-    public static void main(/* Args este parametru metodei main*/String[] args) {
+    /**
+     * Metoda main este metoda apelata de masina virtuala Java si care porneste o aplicatie java
+     * Putem transmite argumente aditionale prin parametrul <b>args</b>
+     * @param args Acesta este parametrul cu care transmitem argumente programului nostru
+     * Autor Paul Ioan
+     */
+    public static void main(String[] args) {
         //Operatorul de adunare +
         int sum = 5 + 4;
         /*
